@@ -1,0 +1,12 @@
+{
+  "name": "notebox.nvim",
+  "version": "1.0.0",
+  "author": "Oskar Grunning",
+  "description": "TODO",
+  "homepage": "https://github.com/sQVe/notebox.nvim",
+  "repository": "github:sQVe/notebox.nvim#readme",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "latest"
+  }
+}
